@@ -7,3 +7,6 @@ Ideias - Registro de Despesas
 - Categorização
 - Saldo total
 - Armazenamento em arquivo
+
+Rafael William Moreira Abreu
+Nicholas Cappeletti Farnetti Silva Reis
