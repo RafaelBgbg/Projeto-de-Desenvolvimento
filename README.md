@@ -4,8 +4,7 @@ Neste projeto, cada grupo deverá propor e desenvolver um sistema usando a lingu
 Objetivo do Projeto: Criar um programa de controle financeiro que permita aos usuários registrar despesas, categorizá-las e calcular o saldo. O projeto inclui o uso de um arquivo para armazenar dados persistentes e a capacidade de categorizar desespesas.
 
 #Ideias 
-- Registro de Despesas: Os usuários podem registrar suas despesas de forma fácil e intuitiva.
-Cada entrada de despesa deve incluir detalhes como valor, data, descrição e categoria.
+- Registro de Despesas: Cada entrada de despesa deve incluir detalhes como valor, data, descrição e categoria.
 A descrição deve ser opcional, mas a data e o valor devem ser campos obrigatórios.
 Os usuários podem adicionar uma nota adicional, se desejarem.
 
@@ -19,8 +18,6 @@ O saldo é calculado subtraindo o total das despesas do total de receitas (se ho
 Os usuários podem adicionar suas fontes de receita e atualizá-las conforme necessário.
 
 - Armazenamento em arquivo: Os dados das despesas e receitas devem ser armazenados em um arquivo para garantir persistência de dados entre sessões.
-Pode-se usar um formato de arquivo simples, como CSV ou JSON, para facilitar a leitura e escrita dos dados.
-Os usuários devem ser capazes de importar e exportar seus dados para backup ou transferência entre dispositivos.
 
 .Rafael William Moreira Abreu
 .Nicholas Cappeletti Farnetti Silva Reis
